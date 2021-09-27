@@ -1,1 +1,1 @@
-# Treasure Hunt Game
+# Hero's Treasure Game
